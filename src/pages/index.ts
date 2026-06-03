@@ -1,0 +1,7 @@
+export { DashboardPage } from './DashboardPage'
+export { NewProjectPage } from './NewProjectPage'
+export { ProjectsPage } from './ProjectsPage'
+export { LibraryPage } from './LibraryPage'
+export { KnowledgeBasePage } from './KnowledgeBasePage'
+export { MarketplacePage } from './MarketplacePage'
+export { SettingsPage } from './SettingsPage'
